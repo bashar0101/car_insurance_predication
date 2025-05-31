@@ -42,6 +42,7 @@ We compared the performance of these models using appropriate **evaluation metri
 - 🎯 **Precision**
 - 🎯 **Recall**
 - 🎯 **F1-Score**
+- 🎯 **AUC**
 
 These metrics help us determine which model best predicts the **OUTCOME** and provides insights into the **factors influencing customer decisions**.
 
